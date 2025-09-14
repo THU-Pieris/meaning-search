@@ -29,8 +29,8 @@
 
 ---
 
-## 🖼️ Icon
-The icon combines **A** (English) and **あ** (Japanese) to emphasize language and meaning.
+## 🙌 Acknowledgements
+Created with guidance from **ChatGPT-5**, which provided the codebase, icon design, and documentation.
 
 ---
 
