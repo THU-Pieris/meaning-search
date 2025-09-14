@@ -11,8 +11,8 @@
 ---
 
 ## ✨ Features
-- Highlight any word on a webpage
-- Right-click → **Search meaning of "<word>"**
+- Highlight any word on a webpage (optional)
+- Simply right-click a word to search its meaning
 - Opens a new Google tab with `meaning of <word>`
 - Minimal, fast, no extra clutter
 
@@ -25,7 +25,7 @@
 3. Open Chrome and navigate to `chrome://extensions`.
 4. Enable **Developer mode** (toggle in top-right).
 5. Click **Load unpacked** and select the extracted folder.
-6. Done! Now highlight any word, right-click, and search its meaning instantly.
+6. Done! Now highlight or just right-click any word to search its meaning instantly.
 
 ---
 

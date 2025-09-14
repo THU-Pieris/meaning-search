@@ -18,3 +18,9 @@ chrome.contextMenus.onClicked.addListener((info) => {
     openMeaningSearch(info.selectionText);
   }
 });
+
+chrome.runtime.onMessage.addListener((message) => {
+  if (message && message.action === "openMeaningSearch" && message.text) {
+    openMeaningSearch(message.text);
+  }
+});
